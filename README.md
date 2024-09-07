@@ -43,7 +43,7 @@ npm install
 
 Start the backend server:
 cd backend
-npm start
+node app.js
 
 Start the frontend server:
 cd frontend
